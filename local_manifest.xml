@@ -9,6 +9,8 @@
   <project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr" remote="ITEL" revision="lineage-21" />
   <project path="hardware/mediatek" name="android_hardware_mediatek" remote="ITEL" revision="lineage-21" />
   <project path="device/itel/P661N-kernel" name="device_P661N-kernel" remote="ITEL" revision="lineage-21">
+  </project>
+  
   <project path="vendor/itel/P661N" name="VendorTree_P661N-NEW" remote="ITEL" revision="lineage-21" />
 
 </manifest>
